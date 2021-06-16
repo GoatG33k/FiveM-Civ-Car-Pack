@@ -4322,589 +4322,491 @@
         <Item>
           <modelName>toysupmk4_bumfcs</modelName>
           <bone>bumper_f</bone>
-          <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bumfvs1</modelName>
           <bone>bumper_f</bone>
-          <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bumfvs2</modelName>
           <bone>bumper_f</bone>
-          <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bumfaf</modelName>
           <bone>bumper_f</bone>
-          <collisionBone>mod_col_5</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_fenderfvs1</modelName>
           <bone>chassis</bone>
-          <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_fenderfvs2</modelName>
           <bone>chassis</bone>
-          <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_fenderfaf</modelName>
           <bone>chassis</bone>
-          <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_fenderfcs</modelName>
           <bone>chassis</bone>
-          <collisionBone>mod_col_6</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_wgvs1</modelName>
           <bone>chassis</bone>
-          <collisionBone>mod_col_4</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_wgvs2</modelName>
           <bone>chassis</bone>
-          <collisionBone>mod_col_4</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_wgcs</modelName>
           <bone>chassis</bone>
-          <collisionBone>mod_col_4</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir1r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir2r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir3r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir4r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir5r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir6r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir7r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir8r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_mir9r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorvfr</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorabfr</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorvfl</modelName>
           <bone>door_dside_f</bone>
-          <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorabfl</modelName>
           <bone>door_dside_f</bone>
-          <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_trunkvf1</modelName>
           <bone>boot</bone>
-          <collisionBone>mod_col_3</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_trunkvf2</modelName>
           <bone>boot</bone>
-          <collisionBone>mod_col_3</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorvarl</modelName>
           <bone>door_dside_f</bone>
-          <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
           <modelName>toysupmk4_doorvarr</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
        <Item>
           <modelName>toysupmk4_windows1a</modelName>
           <bone>boot</bone>
-          <collisionBone>boot</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windows2a</modelName>
           <bone>boot</bone>
-          <collisionBone>boot</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield_ug</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf1a</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf1a</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf1b</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf1b</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr1</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr1</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield1</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bootglass1</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf1</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf1</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr6</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr6</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield6</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bootglass6</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf6</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf6</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr7</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr7</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield7</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bootglass7</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf7</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf7</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr8</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr8</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield8</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bootglass8</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf8</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf8</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr9</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr9</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield9</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bootglass9</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf9</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf9</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr10</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr10</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield10</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bootglass10</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf10</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf10</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr11</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr11</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windshield11</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_bootglass11</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlf11</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrf11</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowlr1a</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windowrr1a</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_hoodvsf1</modelName>
           <bone>bonnet</bone>
-          <collisionBone>bonnet</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_hoodvsf2</modelName>
           <bone>bonnet</bone>
-          <collisionBone>bonnet</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_wideframe</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
         <Item>
           <modelName>toysupmk4_wideframe</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
         <Item>
           <modelName>toysupmk4_int4p2</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
         <Item>
           <modelName>toysupmk4_int5p2</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
        </Item>
          <Item>
           <modelName>toysupmk4_doorcardrsuede</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorcardlsuede</modelName>
           <bone>door_dside_f</bone>
-          <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
           <modelName>toysupmk4_doorcardlbride</modelName>
           <bone>door_dside_f</bone>
-          <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorcardrbride</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
           <modelName>toysupmk4_doorcardlcarb</modelName>
           <bone>door_dside_f</bone>
-          <collisionBone>door_dside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_doorcardrcarb</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_window_lr</modelName>
           <bone>window_lr</bone>
-          <collisionBone>window_lr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_window_rr</modelName>
           <bone>window_rr</bone>
-          <collisionBone>window_rr</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windscreen</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_windscreen_r</modelName>
           <bone>windscreen_r</bone>
-          <collisionBone>windscreen_r</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_window_lf</modelName>
           <bone>window_lf</bone>
-          <collisionBone>window_lf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>toysupmk4_window_rf</modelName>
           <bone>window_rf</bone>
-          <collisionBone>window_rf</collisionBone>
           <turnOffExtra value="false" />
         </Item>
          <Item>
           <modelName>toysupmk4_windshield12</modelName>
           <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
           <turnOffExtra value="false" />
         </Item>
     </linkMods>

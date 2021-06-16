@@ -11,7 +11,6 @@
           <modShopLabel>50cmgt_spoiler_1a</modShopLabel>
           <linkedModels>
             <Item>50cmgt_spoiler_1b</Item>
-						<modShopLabel>50cmgt_spoiler_1b</modShopLabel>
           </linkedModels>
           <turnOffBones/>
           <type>VMT_SPOILER</type>
@@ -207,7 +206,6 @@
       <linkMods>
         <Item>
           <modelName>50cmgt_spoiler_1b</modelName>
-					<modShopLabel>50cmgt_spoiler_1b</modShopLabel>
           <bone>chassis</bone>
           <turnOffExtra value="false"/>
         </Item>

@@ -1013,6 +1013,32 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="true" />
       </headLightCorona>
+      <extraLight>
+        <intensity value="3.500000"/>
+        <falloffMax value="35.000000"/>
+        <falloffExponent value="16.000000"/>
+        <innerConeAngle value="0.000000"/>
+        <outerConeAngle value="60.000000"/>
+        <emmissiveBoost value="true"/>
+        <color value="0xFF7FA7E3"/>
+        <textureName/>
+        <mirrorTexture value="false"/>
+      </extraLight>
+      <extraLightCorona>
+        <size value="0.250000" />
+        <size_far value="0.45" />
+        <intensity value="0.5" />
+        <intensity_far value="0.75" />
+        <color value="0xFF61A5FF" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="147" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.094000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </extraLightCorona>
       <reversingLight>
         <intensity value="1.800000" />
         <falloffMax value="9.200000" />
@@ -1039,33 +1065,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-		  <extraLight>
-        <intensity value="3.500000" />
-        <falloffMax value="35.000000" />
-        <falloffExponent value="16.000000" />
-        <innerConeAngle value="0.000000" />
-        <outerConeAngle value="60.000000" />
-        <emmissiveBoost value="true" />
-        <color value="0xFF7FA7E3" />
-        <textureName />
-        <mirrorTexture value="false" />
-      </extraLight>
-      <extraLightCorona>
-        <size value="0.250000" />
-        <size_far value="0.45" />
-        <intensity value="0.5" />
-        <intensity_far value="0.75" />
-        <color value="0xFF61A5FF" />
-        <numCoronas value="1" />
-        <distBetweenCoronas value="1" />
-        <distBetweenCoronas_far value="147" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.094000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.250000" />
-        <pullCoronaIn value="false" />
-      </extraLightCorona>
       <name>80B4</name>
-						</Item>
-				        </Lights>
+    </Item>
+  </Lights>
 </CVehicleModelInfoVarGlobal>

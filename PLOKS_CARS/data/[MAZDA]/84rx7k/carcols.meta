@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal>    
   <Kits>
-  <Lights>
     <Item>
       <kitName>290_hotring_modkit</kitName>
       <id value="290" />	 	  
@@ -971,5 +970,6 @@
 	  <slotNames />
       <liveryNames />
     </Item>
-  </Lights>
+  </Kits>
+  <Lights />
 </CVehicleModelInfoVarGlobal>

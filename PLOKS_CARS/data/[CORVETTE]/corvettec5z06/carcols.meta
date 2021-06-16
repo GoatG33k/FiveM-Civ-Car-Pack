@@ -79,7 +79,7 @@
         <intensity_far value="0.40000000"/>
         <color value="0xFFFF0012"/>
         <numCoronas value="9"/>
-        <distBetweenCoronas value="6.8"/>
+        <distBetweenCoronas value="7"/>
         <distBetweenCoronas_far value="7"/>
         <xRotation value="0.00000000"/>
         <yRotation value="0.00000000"/>

@@ -262,20 +262,17 @@
       <linkMods>
         <Item>
           <modelName>audquattros_caliperrf</modelName>
-          <bone>hub_rf</bone>
-          <collisionBone>chassis</collisionBone>
+          <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>audquattros_caliperrr</modelName>
-          <bone>hub_rr</bone>
-          <collisionBone>chassis</collisionBone>
+          <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>audquattros_caliperlr</modelName>
-          <bone>hub_lr</bone>
-          <collisionBone>chassis</collisionBone>
+          <bone>chassis</bone>
           <turnOffExtra value="false" />
         </Item>
       </linkMods>
@@ -907,7 +904,7 @@
         <size_far value="2.00000000"/>
         <intensity value="0.70000000"/>
         <intensity_far value="1.20000000"/>
-        <color value="0xFF#f4e9ae"/>
+        <color value="0xFFF4E9AE"/>
         <numCoronas value="1"/>
         <distBetweenCoronas value="27"/>
         <distBetweenCoronas_far value="89"/>

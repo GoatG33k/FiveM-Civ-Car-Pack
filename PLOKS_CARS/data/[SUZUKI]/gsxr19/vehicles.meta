@@ -99,9 +99,7 @@
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="false" />
-      <requiredExtras>
-	  <item>EXTRA_1</item>
-	  </requiredExtras>
+      <requiredExtras>EXTRA_1</requiredExtras>
       <rewards />
       <cinematicPartCamera>
         <Item>WHEEL_REAR_LEFT_CAMERA</Item>

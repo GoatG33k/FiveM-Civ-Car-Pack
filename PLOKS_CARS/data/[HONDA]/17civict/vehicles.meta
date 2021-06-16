@@ -1,4 +1,7 @@
-<Item>
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <InitDatas>
+    <Item>
       <modelName>17civict</modelName>
       <txdName>17civict</txdName>
       <handlingId>17civict</handlingId>
@@ -113,3 +116,5 @@
         <Item>STD_PREMIER_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
+  </InitDatas>
+</CVehicleModelInfo__InitDataList>

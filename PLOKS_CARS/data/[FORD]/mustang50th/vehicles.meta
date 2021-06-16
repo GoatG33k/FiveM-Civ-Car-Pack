@@ -100,13 +100,22 @@
       <trailers />
       <additionalTrailers />
       <drivers>
-        <Item>
-          <driverName>S_M_Y_Cop_01</driverName>
-          <driverName>S_M_Y_Cop_01</driverName>
-          <driverName>S_M_Y_Cop_01</driverName>
-          <driverName>s_f_y_cop_01</driverName>
-          <npcName />
-        </Item>
+          <Item>
+              <driverName>S_M_Y_Cop_01</driverName>
+              <npcName>Male Cop</npcName>
+          </Item>
+          <Item>
+              <driverName>S_M_Y_Cop_01</driverName>
+              <npcName>Male Cop</npcName>
+          </Item>
+          <Item>
+              <driverName>S_M_Y_Cop_01</driverName>
+              <npcName>Male Cop</npcName>
+          </Item>
+          <Item>
+              <driverName>s_f_y_cop_01</driverName>
+              <npcName>Female Cop</npcName>
+          </Item>
       </drivers>
       <extraIncludes />
       <doorsWithCollisionWhenClosed />

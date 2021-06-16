@@ -235,7 +235,7 @@
         </Item>
       </colors>
       <kits>
-        <kitName>928_nissantitan17_modkit</kitName>
+        <Item>928_nissantitan17_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>

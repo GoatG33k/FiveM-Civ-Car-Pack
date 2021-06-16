@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
@@ -474,8 +473,8 @@
         <intensity_far value="1.000000" />
         <color value="0xFFFF1E05" />
         <numCoronas value="0" />
-        <distBetweenCoronas value="0.1" />
-        <distBetweenCoronas_far value="20.5" />
+        <distBetweenCoronas value="1" />
+        <distBetweenCoronas_far value="20" />
         <xRotation value="0.000000" />
         <yRotation value="0.000000" />
         <zRotation value="5.667000" />
