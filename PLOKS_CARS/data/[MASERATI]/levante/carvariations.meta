@@ -41,18 +41,8 @@
       <plateProbabilities>
         <Probabilities />
       </plateProbabilities>
-      <lightSettings value="levante" />
+      <lightSettings value="0" />
       <sirenSettings value="0" />
     </Item>
-
-
-
-
-
-
-
-
-
-
   </variationData>
 </CVehicleModelInfoVariation>

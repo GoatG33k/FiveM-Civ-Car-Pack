@@ -521,11 +521,12 @@
           <type>VMT_SUSPENSION</type>
         </Item>
       </statMods>
-      <slotNames />
+      <slotNames>
         <Item>
           <slot>VMT_CHASSIS</slot>
           <name>TOP_CAGE</name>
         </Item>
+      </slotNames>
       <liveryNames />
     </Item>
   </Kits>

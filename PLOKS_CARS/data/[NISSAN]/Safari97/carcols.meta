@@ -198,7 +198,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -219,7 +219,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -911,7 +911,7 @@
           <type>VMT_SUSPENSION</type>
         </Item>
       </statMods>
-      <slotNames />
+      <slotNames>
         <Item>
           <slot>VMT_CHASSIS</slot>
           <name>TOP_CAGE</name>
@@ -920,6 +920,7 @@
           <slot>VMT_WING_L</slot>
           <name>TOP_HLT</name>
         </Item>
+      </slotNames>
       <liveryNames />
     </Item>
   </Kits>

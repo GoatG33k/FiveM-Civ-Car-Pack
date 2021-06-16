@@ -1504,7 +1504,6 @@
         <Item>
           <modelName>fto_mir1r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>misc_e</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>

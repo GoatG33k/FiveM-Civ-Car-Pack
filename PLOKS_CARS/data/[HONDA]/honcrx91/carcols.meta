@@ -2725,13 +2725,11 @@
         <Item>
           <modelName>honcrx91_door1r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>honcrx91_door2r</modelName>
           <bone>door_pside_f</bone>
-          <collisionBone>door_pside_f</collisionBone>
           <turnOffExtra value="false" />
         </Item>
       </linkMods>
@@ -3363,7 +3361,7 @@
         <size_far value="2.00000000"/>
         <intensity value="1.00000000"/>
         <intensity_far value="1.20000000"/>
-        <color value="0xFF#f4e9ae"/>
+        <color value="0xFFF4E9AE"/>
         <numCoronas value="0"/>
         <distBetweenCoronas value="27"/>
         <distBetweenCoronas_far value="89"/>
